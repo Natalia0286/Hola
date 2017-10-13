@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\Hola.deps.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\Hola.runtimeconfig.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\Hola.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\Hola.dll
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\Hola.pdb
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\Hola.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\Hola.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\Hola.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\Hola.dll
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\Hola.pdb

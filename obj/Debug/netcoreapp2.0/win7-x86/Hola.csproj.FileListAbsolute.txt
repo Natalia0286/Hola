@@ -1,0 +1,13 @@
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\hostpolicy.dll
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\hostfxr.dll
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.exe
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.deps.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.runtimeconfig.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.dll
+C:\Users\Administrador\Documents\Hola\bin\Debug\netcoreapp2.0\win7-x86\Hola.pdb
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\win7-x86\Hola.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\win7-x86\Hola.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\win7-x86\Hola.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\win7-x86\Hola.dll
+C:\Users\Administrador\Documents\Hola\obj\Debug\netcoreapp2.0\win7-x86\Hola.pdb
